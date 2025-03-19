@@ -1,0 +1,16 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Configuración de entornos virtuales
+venv/
+env/
+
+# Base de datos SQLite (si la usas)
+db.sqlite3
+
+# Variables de entorno
+.env
+
+# Configuración de VS Code
+.vscode/
